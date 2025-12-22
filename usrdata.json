@@ -5,4 +5,10 @@
         "expirydate": "31-12-3000",
         "Allowoffline": true
     },
+    {
+        "device_id": "21055608817f8952",
+        "key": "Mmd051",
+        "expirydate": "22-12-2025",
+        "Allowoffline": false
+    },
 ]
